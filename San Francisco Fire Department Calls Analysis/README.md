@@ -29,3 +29,7 @@ The entire project is implemented in PySpark. This project deals with reading a 
     <li>Spark SQL has also been implemented in some places.</li>
     <li>Joining of two datasets - Fire_Incidents.csv and Fire_Department_Calls_for_Service.csv has been performed to answer few more questions related to the dataset.</li>
 </ul>
+
+<br>
+
+The entire project has been done with Jupyter Notebook and PySpark in a local machine.
